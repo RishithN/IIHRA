@@ -1,0 +1,51 @@
+UserID,Age,BMI,Gender,SkinType,Allergies,HormoneLevel,BP,BloodGroup,Previously_Used_Product,Side_Effect_Caused
+1,25,28.9,Male,Sensitive,Chia,High,135/87,A+,Niacinamide Serum,Peeling
+2,28,29.4,Female,Sensitive,None,High,132/78,AB+,Retinol Cream,Tightness
+3,30,26.9,Male,Combination,ACV,Low,138/66,B+,Hyaluronic Acid Serum,Redness
+4,27,29.2,Male,Dry,Retinol,Low,105/72,O-,Azelaic Acid Cream,Irritation
+5,24,34.9,Female,Sensitive,Vitamin C,Low,106/79,AB+,Glycolic Acid Toner,Purging
+6,18,33,Female,Combination,Vitamin C,Low,128/86,B+,Niacinamide Serum,Inflammation
+7,17,29.8,Other,Combination,ACV,Low,132/92,A-,Salicylic Acid Face Wash,Purging
+8,28,22.8,Female,Dry,None,Normal,115/77,B-,Tea Tree Toner,Burning Sensation
+9,33,30,Male,Dry,ACV,Normal,126/76,AB-,Benzoyl Peroxide Gel,Inflammation
+10,19,34.1,Other,Sensitive,ACV,Normal,100/61,O-,Glycolic Acid Toner,Dryness
+11,34,20,Female,Dry,Chia,Normal,134/74,O+,Retinol Cream,Itching
+12,31,27.3,Other,Oily,Retinol,Normal,101/83,B-,Salicylic Acid Face Wash,Burning Sensation
+13,22,19.9,Other,Oily,ACV,Low,101/85,O+,Niacinamide Serum,Purging
+14,24,34.9,Male,Sensitive,Vitamin C,Normal,105/80,A-,Niacinamide Serum,Itching
+15,27,19.6,Male,Dry,Retinol,High,108/89,A+,Aloe Vera Gel,Purging
+16,28,27.4,Male,Combination,Chia,High,114/73,A-,Benzoyl Peroxide Gel,Burning Sensation
+17,29,32.2,Other,Oily,None,Normal,107/71,O+,Aloe Vera Gel,Dryness
+18,38,31.5,Male,Oily,None,High,137/62,B-,Retinol Cream,Itching
+19,39,27.9,Other,Combination,Retinol,Normal,131/93,AB+,Azelaic Acid Cream,Inflammation
+20,33,32.4,Female,Dry,None,Low,129/92,A+,Hyaluronic Acid Serum,Inflammation
+21,38,31.1,Male,Sensitive,Vitamin C,Normal,118/71,O-,Retinol Cream,Peeling
+22,24,29.3,Male,Combination,None,High,123/79,B-,Tea Tree Toner,Burning Sensation
+23,22,21,Female,Combination,Retinol,Normal,135/71,B-,Hyaluronic Acid Serum,Burning Sensation
+24,18,21.3,Other,Oily,Vitamin C,Low,128/71,O-,Glycolic Acid Toner,Dryness
+25,17,26.5,Female,Sensitive,Vitamin C,Low,123/66,AB+,Azelaic Acid Cream,Peeling
+26,16,29,Other,Oily,ACV,Low,102/72,B-,Benzoyl Peroxide Gel,Irritation
+27,27,25.1,Male,Combination,ACV,Normal,101/66,O-,Aloe Vera Gel,Purging
+28,24,34.4,Other,Oily,Retinol,Low,127/80,A+,Hyaluronic Acid Serum,Dryness
+29,36,24.7,Female,Dry,ACV,High,119/85,B-,Aloe Vera Gel,Redness
+30,31,27.1,Female,Combination,ACV,Low,105/69,O-,Benzoyl Peroxide Gel,Burning Sensation
+31,19,31.6,Male,Dry,ACV,High,106/80,B-,Azelaic Acid Cream,Peeling
+32,27,28.6,Male,Dry,Vitamin C,Normal,122/82,AB+,Glycolic Acid Toner,Purging
+33,27,23,Female,Dry,Vitamin C,Low,110/77,A+,Retinol Cream,Peeling
+34,23,21.4,Female,Sensitive,Vitamin C,High,119/84,A-,Salicylic Acid Face Wash,Dryness
+35,44,29.2,Male,Oily,None,Low,110/72,O-,Azelaic Acid Cream,Peeling
+36,27,20.3,Other,Sensitive,Chia,Low,115/70,AB-,Retinol Cream,Purging
+37,20,26.9,Other,Dry,Chia,High,110/77,AB+,Glycolic Acid Toner,No Side Effect
+38,28,25.2,Female,Dry,None,Low,126/91,O-,Vitamin C Serum,No Side Effect
+39,29,23.2,Female,Sensitive,ACV,High,135/87,AB-,Hyaluronic Acid Serum,Peeling
+40,26,30.6,Female,Sensitive,ACV,Low,120/71,O-,Aloe Vera Gel,Purging
+41,22,31.1,Male,Oily,Vitamin C,Normal,108/95,A-,Aloe Vera Gel,Peeling
+42,25,29.7,Male,Dry,None,Normal,116/93,AB+,Azelaic Acid Cream,Peeling
+43,32,19.9,Female,Oily,Vitamin C,Low,102/82,A+,Azelaic Acid Cream,Dryness
+44,21,21.8,Female,Oily,None,High,115/69,A+,Tea Tree Toner,Tightness
+45,22,27.1,Female,Combination,None,High,130/86,AB+,Niacinamide Serum,Dryness
+46,41,29.3,Female,Sensitive,None,Low,123/90,A-,Azelaic Acid Cream,Tightness
+47,31,27.7,Other,Sensitive,Vitamin C,Normal,117/67,AB-,Benzoyl Peroxide Gel,No Side Effect
+48,22,21.1,Male,Oily,Vitamin C,Low,135/91,A+,Benzoyl Peroxide Gel,Tightness
+49,23,28.9,Male,Oily,Retinol,Normal,112/88,O+,Glycolic Acid Toner,Inflammation
+50,25,33.6,Male,Oily,Vitamin C,Low,104/94,AB+,Aloe Vera Gel,Tightness
